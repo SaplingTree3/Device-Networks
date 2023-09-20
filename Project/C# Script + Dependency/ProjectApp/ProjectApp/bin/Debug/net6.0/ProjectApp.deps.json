@@ -1,0 +1,81 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ProjectApp/1.0.0": {
+        "dependencies": {
+          "UIAutomationClient": "3.0.0.0",
+          "UIAutomationClientsideProviders": "3.0.0.0",
+          "UIAutomationProvider": "3.0.0.0",
+          "UIAutomationTypes": "3.0.0.0"
+        },
+        "runtime": {
+          "ProjectApp.dll": {}
+        }
+      },
+      "UIAutomationClient/3.0.0.0": {
+        "runtime": {
+          "UIAutomationClient.dll": {
+            "assemblyVersion": "3.0.0.0",
+            "fileVersion": "3.0.6920.9141"
+          }
+        }
+      },
+      "UIAutomationClientsideProviders/3.0.0.0": {
+        "runtime": {
+          "UIAutomationClientsideProviders.dll": {
+            "assemblyVersion": "3.0.0.0",
+            "fileVersion": "3.0.6920.9141"
+          }
+        }
+      },
+      "UIAutomationProvider/3.0.0.0": {
+        "runtime": {
+          "UIAutomationProvider.dll": {
+            "assemblyVersion": "3.0.0.0",
+            "fileVersion": "3.0.6920.9141"
+          }
+        }
+      },
+      "UIAutomationTypes/3.0.0.0": {
+        "runtime": {
+          "UIAutomationTypes.dll": {
+            "assemblyVersion": "3.0.0.0",
+            "fileVersion": "3.0.6920.9141"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ProjectApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "UIAutomationClient/3.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "UIAutomationClientsideProviders/3.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "UIAutomationProvider/3.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "UIAutomationTypes/3.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
